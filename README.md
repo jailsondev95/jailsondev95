@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor .Net| formado em analise e desenvolvimento de sistemas| atualmente Suporte de TI N1/N2 @IDworks</p>
+<p align="left">- Desenvolvedor .Net | formado em analise e desenvolvimento de sistemas | atualmente Suporte de TI N1/N2 @IDworks</p>
 
 ###
 
