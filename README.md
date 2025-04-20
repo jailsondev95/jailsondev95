@@ -1,72 +1,34 @@
-<h2 align="left">Jailson Oliveira - Desenvolvedor Back End</h2>
+# 👨🏻‍💻 Jailson Oliveira
 
-###
+**`Desenvolvedor Back-end`**
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jailsondev95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jailsondev95&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&locale=pt-br" height="150" alt="Linguagens mais usadas" />
-</div>
+Sou apaixonado por desenvolvimento back-end, com foco em entregar soluções eficientes, seguras e escaláveis. Trabalho com tecnologias como **C#**, **.NET**, **SQL Server**, e também utilizo ferramentas como **Postman** para testes de APIs. Possuo conhecimentos em **HTML** e **CSS** para integração com o front-end quando necessário. Estou sempre em busca de aprimorar minhas habilidades e acompanhar as inovações do mundo da programação.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt=".NET Core" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="Kubernetes" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="Visual Studio" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />
-</div>
+### 📫 Contato
 
-###
+- 💼 [LinkedIn](https://www.linkedin.com/in/jailson1995)
+- 📧 E-mail: jailsonsilvadeoliveira7@gmail.com
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/jailson1995" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jailsonsilvadeoliveira7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <!-- Substitua os links abaixo pelos URLs corretos dos seus perfis -->
-  <a href="https://t.me/SEU_USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram" />
-  </a>
-  <a href="https://www.instagram.com/SEU_USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/SEU_USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
-  </a>
-  <a href="https://discord.com/users/SEU_ID" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <a href="https://www.youtube.com/@SEU_CANAL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
-</div>
+---
 
-###
+### 🛠️ Tecnologias e Ferramentas
 
-<br clear="both" />
+<p align="left">
+  <img alt="C#" title="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img alt=".NET" title=".NET" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+  <img alt="SQL Server" title="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img alt="Postman" title="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jailsondev95/jailsondev95/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/jailsondev95/jailsondev95/output/snake.svg" alt="Snake animation" />
-</picture>
+---
 
-###
+### 📊 Estatísticas GitHub
+
+<p align="left">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jailson1995&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas GitHub" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailson1995&layout=compact&theme=tokyonight&locale=pt-br&langs_count=8" alt="Principais Linguagens" />
+</p>
