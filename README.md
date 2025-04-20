@@ -1,34 +1,68 @@
-# 👨🏻‍💻 Jailson Oliveira
+<h2 align="left">Jailson Oliveira - Desenvolvedor Back End</h2>
 
-**`Desenvolvedor Back-end`**
+###
 
-Sou apaixonado por desenvolvimento back-end, com foco em entregar soluções eficientes, seguras e escaláveis. Trabalho com tecnologias como **C#**, **.NET**, **SQL Server**, e também utilizo ferramentas como **Postman** para testes de APIs. Possuo conhecimentos em **HTML** e **CSS** para integração com o front-end quando necessário. Estou sempre em busca de aprimorar minhas habilidades e acompanhar as inovações do mundo da programação.
+<h2 align="left">Sobre mim 👨‍💻</h2>
 
----
+###
 
-### 📫 Contato
+<p align="left">Olá! Me chamo Jailson Oliveira, sou desenvolvedor C# .NET com experiência sólida na área de tecnologia. Tenho 3 anos de atuação como Analista de Sistemas na área de e-commerce, e atualmente trabalho como Suporte N1/N2 na empresa IDworks de Tecnologia.<br><br>Possuo experiência com SQL Server, APIs (Postman) e conhecimentos básicos em HTML e CSS, o que me permite colaborar tanto no back-end quanto com pequenas demandas no front-end.<br><br>Sou apaixonado por tecnologia, resolução de problemas e sempre estou em busca de novos aprendizados para evoluir profissionalmente.</p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jailson1995)
-- 📧 E-mail: jailsonsilvadeoliveira7@gmail.com
+###
 
----
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jailsondev95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jailsondev95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 🛠️ Tecnologias e Ferramentas
+###
 
-<p align="left">
-  <img alt="C#" title="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img alt=".NET" title=".NET" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
-  <img alt="SQL Server" title="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img alt="Postman" title="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+</div>
 
----
+###
 
-### 📊 Estatísticas GitHub
+<div align="left">
+  <a href="www.linkedin.com/in/jailson1995" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="jailsonsilvadeoliveira7@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="@jailsonwsilva3200" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+</div>
 
-<p align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jailson1995&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas GitHub" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailson1995&layout=compact&theme=tokyonight&locale=pt-br&langs_count=8" alt="Principais Linguagens" />
-</p>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jailsondev95/jailsondev95/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jailsondev95/jailsondev95/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jailsondev95/jailsondev95/output/pacman-contribution-graph.svg">
+</picture>
+
+###
